@@ -1,2 +1,4 @@
+var number;
 function add(a,b){
-return `1541`}
+number = a + b;
+return number;}
